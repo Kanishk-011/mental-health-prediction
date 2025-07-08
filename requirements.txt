@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+tensorflow==2.19.0
+keras==2.19.0
+joblib
+matplotlib
+seaborn
